@@ -16,3 +16,6 @@ Python version 3.7.6
 
 <h3>Author</h3>
 Andy Kwok
+
+<h3>Acknowledgement</h3>
+Thanks Airbnb for the open dataset. All parties interested can access it through Kaggle.
